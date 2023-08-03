@@ -1,0 +1,45 @@
+
+.App {
+  max-width: 350px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #FFDB58;
+  border-radius: 5px;
+  background-color:#2E5A88;
+}
+
+h1 {
+  text-align: center;
+
+}
+
+input {
+  width: 100%;
+  padding: 3px;
+  margin-bottom: 15px;
+
+  border-radius: 10px;
+}
+
+button {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  background-color: #FFDB58;
+  color: #2E5A88;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  margin-bottom: 10px;
+}
+
+
+
+.task-box {
+  background-color:  #808080;;
+  border: 1px solid #FFDB58;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+ 
